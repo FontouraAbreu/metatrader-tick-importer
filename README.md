@@ -11,3 +11,22 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+
+1. Clone the repository:
+
+```bash
+
+git clone git@github.com:FontouraAbreu/metatrader-tick-importer.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd metatrader-tick-importer
+```
+
+3. Run the script:
+
+```bash
+python main.py
+```
